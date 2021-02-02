@@ -1,5 +1,6 @@
+ ###                                                 Hi 👋 I'm Sapna  
 ![alt text](https://github.com/Sapu30/Sapu30/blob/main/girl2.png?raw=true)
-   ###       Hi 👋 I'm Sapna  
+  
 <!--
 **Sapu30/Sapu30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
