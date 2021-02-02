@@ -1,4 +1,4 @@
-### Hi 👋 I'm Sapna
+### Hi 👋 I'm Sapna  ![alt text](https://github.com/Sapu30/Sapu30/blob/main/girl.jpg?raw=true)
 <!--
 **Sapu30/Sapu30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt text](https://github.com/Sapu30/Sapu30/blob/main/girl.jpg?raw=true)
+
