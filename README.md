@@ -1,8 +1,5 @@
  ###                                                <b> Hello, folks! 👋  </b>
- <u></u>
- My name is Sapna and I am pursuing MCA  from IGDTUW.
-![alt text](https://github.com/Sapu30/Sapu30/blob/main/girl2.png?raw=true)
-  
+ 
 <!--
 **Sapu30/Sapu30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
