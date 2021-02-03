@@ -1,4 +1,6 @@
- ###                                                 Hi 👋 I'm Sapna  
+ ###                                                <b> Hello, folks! 👋  </b>
+ <u></u>
+ My name is Sapna and I am pursuing MCA  from IGDTUW.
 ![alt text](https://github.com/Sapu30/Sapu30/blob/main/girl2.png?raw=true)
   
 <!--
