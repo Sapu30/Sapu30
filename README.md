@@ -24,19 +24,3 @@
 <code><img height="50" src="https://icon-library.com/images/mysql-icon/mysql-icon-14.jpg" alt="sql"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"></code>
 
-
-## My Stats 📊
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anku-kashyap&show_icons=true&border=true&icon_color=79ff97&text_color=efefef&bg_color=24292e&title_color=fff" alt="Ankush's Github stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anku-kashyap&hide_title=false&layout=compact&bg_color=24292e&text_color=fff&title_color=fff">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anku-kashyap&theme=tokyonight" alt="Ankush's Streak">
-</p><br>
-
-<img src="https://komarev.com/ghpvc/?username=kritikaparmar-programmer" alt="sapna-programmer" />
-<a href="https://github.com/kritikaparmar-programmer/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kritikaparmar-programmer&repo=github-readme-stats&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/kritikaparmar-programmer/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikaparmar-programmer&layout=compact&theme=radical" />
-</a>
-
