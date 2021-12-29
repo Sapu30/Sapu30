@@ -20,8 +20,8 @@
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
 <img height="50" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="Javascript"></code>
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Boot"></code>
-<img height="50" src="https://pngimg.com/uploads/php/php_PNG18.png" alt="php">
-<img height="50" src="https://icon-library.com/images/mysql-icon/mysql-icon-14.jpg" alt="sql">
+<img height="50" src="https://pngimg.com/uploads/php/php_PNG18.png" alt="php"></code>
+<img height="50" src="https://icon-library.com/images/mysql-icon/mysql-icon-14.jpg" alt="sql"></code>
 <img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"></code>
 
 
