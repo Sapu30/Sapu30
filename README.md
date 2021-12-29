@@ -14,6 +14,7 @@
 - ⚡ Fun fact: I love singing and travelling. I also love helping people.
 
 
+ https://pngimg.com/uploads/php/php_PNG18.png
  
 ## Tech Stack 💻
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>
@@ -22,8 +23,10 @@
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap">
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript">
-<img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase">
 <img height="50" src="https://e7.pngegg.com/pngimages/809/483/png-clipart-php-php.png" alt="php">
+<img height="50" src="https://w7.pngwing.com/pngs/150/480/png-transparent-mysql-database-mariadb-phpmyadmin-blog-miscellaneous-text-logo.png" alt="php">
+<img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase">
+
 
 
 ## My Stats 📊
