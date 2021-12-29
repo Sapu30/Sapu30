@@ -3,7 +3,16 @@
  <center>
  <img src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" align="right" alt="Logo" width="520" height="390"></center>
  
-I'm  Sapna Kumari, a Sophomore pursuing MCA from IGDTUW. I am an enthusiastic, ambitious developer, eager to contribute to make open source more accessible.Hands-on experience planning, analyzing, and implementing assigned projects and establishing schedules and project parameters. Apart from programming, I love singing and travelling.
+- 👨‍💻 A Sophomore pursuing MCA from IGDTUW.
+ 
+- 🔭 I’m currently working on improving myself 💪.
+
+- 🌱 I’m currently learning web development and polishing my Data Structures and Algorithms.
+
+- 😄 Pronouns: She/her
+
+- ⚡ Fun fact: I love singing and travelling. I also love helping people.
+
 
  
 ## Tech Stack 💻
