@@ -18,7 +18,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Boot"></code>
 <code><img height="50" src="https://pngimg.com/uploads/php/php_PNG18.png" alt="php"></code>
 <code><img height="50" src="https://icon-library.com/images/mysql-icon/mysql-icon-14.jpg" alt="sql"></code>
@@ -26,8 +26,7 @@
 
 
 ## My Stats 📊
-
-<img src="https://komarev.com/ghpvc/?username=kritikaparmar-programmer" alt="kritikaparmar-programmer" />
+<img src="https://komarev.com/ghpvc/?username=kritikaparmar-programmer" alt="sapna-programmer" />
 <a href="https://github.com/kritikaparmar-programmer/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kritikaparmar-programmer&repo=github-readme-stats&show_icons=true&theme=radical" />
 </a>
