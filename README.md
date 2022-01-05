@@ -47,8 +47,5 @@
 <p align="center">
 Made with 💖 and ☕</p>
 
-## Some GitHub Stats
-![Kadambini's github stats](https://github-readme-stats.vercel.app/api?username=kadambinipanda&show_icons=true&theme=dracula)
-<!--![Visitor Count](https://profile-counter.glitch.me/{kadambinipanda}/count.svg)-->
 ![image title](https://rushter.com/counter.svg)
 
