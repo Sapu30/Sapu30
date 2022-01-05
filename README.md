@@ -27,3 +27,9 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"></code>
 
 </center>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sapu30&show_icons=true&border=true&icon_color=79ff97&text_color=efefef&bg_color=24292e&title_color=fff" alt="Sapna's Github stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapu30&hide_title=false&layout=compact&bg_color=24292e&text_color=fff&title_color=fff">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sapu30&theme=tokyonight" alt="Sapna's Streak">
+</p><br>
