@@ -2,7 +2,7 @@
 <h1 align='center'> Hi Geeks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"> This is Sapna </h1>
  <center>
  <img src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" align="right" alt="Logo" width="425" height="335"></center>
- <br>
+ <br><br>
 <center>
  
  <img src="https://komarev.com/ghpvc/?username=Sapu30&label=Profile%20views&color=40f028&style=flat" alt="sapna" />
@@ -38,7 +38,6 @@
 </p>
 <h1 align="center">Catch Me At</h1>
 <p align="center">
-<br>
 <a href="https://leetcode.com/sapna02/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="Sapna" height="40" width="50"/></a>&nbsp;
 <a href="https://www.codechef.com/users/sapna02" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="sapna" height="40" width="50" /></a>&nbsp;
 <a href="https://www.hackerrank.com/kumarisapna2056?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="sapna" height="40" width="50" /></a>&nbsp;
