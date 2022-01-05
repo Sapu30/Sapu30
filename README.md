@@ -4,6 +4,9 @@
  <img src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" align="right" alt="Logo" width="430" height="310"></center>
  <br>
 <center>
+ 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sapu30&label=Profile%20views&color=40f028&style=flat" alt="sapna" /> </p>
+ <br>
 
 - 👨‍💻 A Sophomore pursuing MCA from IGDTUW.
  
@@ -32,7 +35,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sapu30&show_icons=true&border=true&icon_color=79ff97&text_color=efefef&bg_color=24292e&title_color=fff" alt="Sapna's Github stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapu30&hide_title=false&layout=compact&bg_color=24292e&text_color=fff&title_color=fff">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sapu30&theme=tokyonight" alt="Sapna's Streak">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sapu30&label=Profile%20views&color=40f028&style=flat" alt="sapna" /> </p>
 </p><br>
 <h1 align="center">Catch Me At</h1>
 <p align="center">
