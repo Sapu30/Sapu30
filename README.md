@@ -5,9 +5,8 @@
  <br>
 <center>
  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sapu30&label=Profile%20views&color=40f028&style=flat" alt="sapna" /> </p>
- <br>
-
+ <img src="https://komarev.com/ghpvc/?username=Sapu30&label=Profile%20views&color=40f028&style=flat" alt="sapna" />
+ 
 - 👨‍💻 A Sophomore pursuing MCA from IGDTUW.
  
 - 🔭 I’m currently working on improving myself 💪.
