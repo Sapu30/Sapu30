@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: I love singing and travelling. I also love helping people.
 
-## Tech Stack 💻
+<h1 align="center">Tech Stack 💻</h1>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
@@ -35,7 +35,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sapu30&show_icons=true&border=true&icon_color=79ff97&text_color=efefef&bg_color=24292e&title_color=fff" alt="Sapna's Github stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapu30&hide_title=false&layout=compact&bg_color=24292e&text_color=fff&title_color=fff">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sapu30&theme=tokyonight" alt="Sapna's Streak">
-</p><br>
+</p>
 <h1 align="center">Catch Me At</h1>
 <p align="center">
 <br>
