@@ -32,6 +32,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sapu30&show_icons=true&border=true&icon_color=79ff97&text_color=efefef&bg_color=24292e&title_color=fff" alt="Sapna's Github stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapu30&hide_title=false&layout=compact&bg_color=24292e&text_color=fff&title_color=fff">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sapu30&theme=tokyonight" alt="Sapna's Streak">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sapu30&label=Profile%20views&color=40f028&style=flat" alt="sapna" /> </p>
 </p><br>
 <h1 align="center">Catch Me At</h1>
 <p align="center">
@@ -48,5 +49,6 @@
 Made with 💖 and ☕</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sapu30" alt="sapna" /> </p></br>
+
+
 
