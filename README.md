@@ -18,7 +18,8 @@
 - ⚡ Fun fact: I love singing and travelling. I also love helping people.
 
 <h1>Tech Stack 💻</h1>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>
+<code><img height="50" src="![image](https://github.com/Sapu30/Sapu30/assets/71216375/2b5c925b-f803-4d55-aabe-f745916a48bc)
+" alt="Java"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
