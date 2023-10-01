@@ -11,9 +11,17 @@
 
 - 💬 Ask me about **Data Structures and Algorthms & Java**
 
-- 😄 Pronouns: She/her
+- 📫 How to reach me **<a href="mailto:kumarisapna2056">kumarisapna2056@gmail.com</a>**
 
 - ⚡ Fun fact: I love singing and travelling.
+  
+
+<h3 align="left">Connect with me:</h3>
+<a href="https://leetcode.com/sapna02/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="Sapna" height="40" width="50"/></a>&nbsp;
+<!-- <a href="https://www.codechef.com/users/sapna02" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="sapna" height="40" width="50" /></a>&nbsp; -->
+<a href="https://www.hackerrank.com/sapu02" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="sapna" height="40" width="50" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/sapna-kumari-a461221b5/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="34" width="75" /></a>&nbsp;
+
 
 <h1>Tech Stack 💻</h1>
 <code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"></code>
@@ -34,16 +42,15 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapu30&hide_title=false&layout=compact&bg_color=24292e&text_color=fff&title_color=fff">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sapu30&theme=tokyonight" alt="Sapna's Streak">
 </p>
-<h1 align="center">Catch Me At</h1>
+<!-- <h1 align="center">Catch Me At</h1>
 <p align="center">
 <a href="https://leetcode.com/sapna02/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="Sapna" height="40" width="50"/></a>&nbsp;
-<a href="https://www.codechef.com/users/sapna02" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="sapna" height="40" width="50" /></a>&nbsp;
-<a href="https://www.hackerrank.com/kumarisapna2056?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="sapna" height="40" width="50" /></a>&nbsp;
+<!-- <a href="https://www.codechef.com/users/sapna02" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="sapna" height="40" width="50" /></a>&nbsp; -->
+<!-- <a href="https://www.hackerrank.com/sapu02" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="sapna" height="40" width="50" /></a>&nbsp;
 <br><br>
-<a href="https://www.linkedin.com/in/sapna-kumari-a461221b5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://sapu30.github.io/PersonalPortfolio/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
-</p>
-
+<a href="https://www.linkedin.com/in/sapna-kumari-a461221b5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; -->
+<!-- <a href="https://sapu30.github.io/PersonalPortfolio/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a> -->
+<!-- </p> -->
 <p align="center">
 Made with 💖 and ☕</p>
 
