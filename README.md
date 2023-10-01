@@ -16,14 +16,14 @@
 - ⚡ Fun fact: I love singing and travelling.
   
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <a href="https://leetcode.com/sapna02/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="Sapna" height="40" width="50"/></a>&nbsp;
 <!-- <a href="https://www.codechef.com/users/sapna02" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="sapna" height="40" width="50" /></a>&nbsp; -->
 <a href="https://www.hackerrank.com/sapu02" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="sapna" height="40" width="50" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/sapna-a461221b5" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="34" width="75" /></a>&nbsp;
 
 
-<h1>Tech Stack 💻</h1>
+<h2>Tech Stack 💻</h2>
 <code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"></code>
 <code><img height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Firebase"></code>
 <code><img height="45" src="https://icon-library.com/images/mysql-icon/mysql-icon-14.jpg" alt="sql"></code>
