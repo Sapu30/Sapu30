@@ -1,5 +1,5 @@
-<h1 align='center'>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40">, I'm Sapna (https://portfolios.talentsprint.com/~mansi_sharma/) </h1> 
-<h3 align="center">A passionate learner from India who loves exploring new technologies!</h3>
+<h1 align='center'>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40">, I'm Sapna </h1> 
+<h3 align="center">A passionate learner who loves exploring new technologies!</h3>
 
  <center>
  <img src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" align="right" alt="Logo" width="425" height="335"></center>
