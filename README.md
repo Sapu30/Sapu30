@@ -1,4 +1,4 @@
-<h1 align='center'>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40">, I'm Sapna </h1> 
+<h1 align='center'>Hi, I'm <a https://sapu30.github.io/PersonalPortfolio/>Sapna </a> </h1> 
 <h3 align="center">A passionate learner who loves exploring new technologies!</h3>
 
  <center>
