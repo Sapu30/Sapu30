@@ -2,7 +2,7 @@
 <h3 align="center">A passionate learner who loves exploring new technologies!</h3>
 
  <center>
- <img src="" align="right" alt="Logo" width="450" height="290" style="border-radius: 100;"> </center>
+ <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" align="right" alt="Logo" width="450" height="290" style="border-radius: 100;"> </center>
  <br><br>
 <center>
  
